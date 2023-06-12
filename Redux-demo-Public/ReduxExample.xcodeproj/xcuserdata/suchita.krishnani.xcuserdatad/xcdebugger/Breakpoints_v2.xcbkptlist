@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "467A5EE5-CAE7-4A33-BC45-C073BECE73FE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66C845A7-3AB4-40BB-B8AA-8E41A8E827B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReduxExample/Redux/Store.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "dispatch(action:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "66C845A7-3AB4-40BB-B8AA-8E41A8E827B7 - be2ff4092d328c04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReduxExample.Store.dispatch(action: ReduxExample.Action) -&gt; ()"
+                  moduleName = "ReduxExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suchita.krishnani/Documents/Redux-demo/ReduxExample/Redux/Store.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "66C845A7-3AB4-40BB-B8AA-8E41A8E827B7 - be2ff4092d328c04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReduxExample.Store.dispatch(action: ReduxExample.Action) -&gt; ()"
+                  moduleName = "ReduxExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suchita.krishnani/Documents/Redux-demo/ReduxExample/Redux/Store.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6FB94D4-15FD-4D81-8B44-1C46985A929B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReduxExample/Redux/SideEffect.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchUserSideEffect(service:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B6FB94D4-15FD-4D81-8B44-1C46985A929B - 8e9893918a8884f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;ReduxExample.User&gt;) -&gt; ReduxExample.Action in closure #1 (ReduxExample.AppState, ReduxExample.Action) -&gt; Swift.Optional&lt;Combine.AnyPublisher&lt;ReduxExample.Action, Swift.Error&gt;&gt; in ReduxExample.fetchUserSideEffect(service: ReduxExample.Service) -&gt; (ReduxExample.AppState, ReduxExample.Action) -&gt; Swift.Optional&lt;Combine.AnyPublisher&lt;ReduxExample.Action, Swift.Error&gt;&gt;"
+                  moduleName = "ReduxExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suchita.krishnani/Documents/Redux-demo/ReduxExample/Redux/SideEffect.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "B6FB94D4-15FD-4D81-8B44-1C46985A929B - d1d4a7e7ee467bc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;ReduxExample.User&gt;) -&gt; ReduxExample.Action in closure #1 (ReduxExample.AppState, ReduxExample.Action) -&gt; Swift.Optional&lt;Combine.AnyPublisher&lt;ReduxExample.Action, Swift.Never&gt;&gt; in ReduxExample.fetchUserSideEffect(service: ReduxExample.Service) -&gt; (ReduxExample.AppState, ReduxExample.Action) -&gt; Swift.Optional&lt;Combine.AnyPublisher&lt;ReduxExample.Action, Swift.Never&gt;&gt;"
+                  moduleName = "ReduxExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suchita.krishnani/Documents/Redux-demo/ReduxExample/Redux/SideEffect.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
